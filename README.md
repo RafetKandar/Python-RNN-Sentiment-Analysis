@@ -20,17 +20,5 @@ IMDB
   
 </ul>
 
-About Dataset
-
-<h3> The dataset consists of two files: </h3>
-
-<ol>
-
-<li> mnist_train.csv</li>
-
-<li> mnist_test.csv</li>
-
-</ol>
-
 ### Result
 <img src = "img/result(acc-loss).PNG"></img>

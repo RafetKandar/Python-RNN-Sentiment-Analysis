@@ -21,4 +21,4 @@ IMDB
 </ul>
 
 ### Result
-<img src = "img/result(acc-loss).PNG"></img>
+<img src = "img/accuracy - loss.PNG"></img>

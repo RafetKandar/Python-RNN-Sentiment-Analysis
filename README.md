@@ -1,6 +1,6 @@
 # Python-RNN-Sentiment-Analysis
 
-<img src = "img/Example-images-from-the-MNIST-dataset.png" width = 1000 ></img>
+<img src = "img/Pozitive_Negative.png" width = 1000 ></img>
 
 
 <strong> Are the reviews about the movies positive or negative? We are trying to predict this using the RNN model. </strpng>

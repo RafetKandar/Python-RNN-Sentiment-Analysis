@@ -3,13 +3,22 @@
 <img src = "img/Example-images-from-the-MNIST-dataset.png" width = 1000 ></img>
 
 
-<strong> Digit (mnist dataset) detection using CNN model. </strpng>
+<strong> Are the reviews about the movies positive or negative? We are trying to predict this using the RNN model. </strpng>
 
 Dataset used :
 
-Mnist
+IMDB
 
-The mnist_train.csv file contains the 60,000 training examples and labels. The mnist_test.csv contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).
+<ul>
+  
+<li> X train shape :  (25000,) </li>
+<li> Y train shape :  (25000,) </li>
+<li> Y train values:  [0 1] </li>
+<li> Y test values:  [0 1] </li>
+<li> Y train distrubution :  {0: 12500, 1: 12500} </li>
+<li> Y test distrubution :  {0: 12500, 1: 12500} </li>
+  
+</ul>
 
 About Dataset
 
